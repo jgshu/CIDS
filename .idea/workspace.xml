@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5e6c952-a804-413c-9adf-98cd61c08643" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZKJaxkuoeYQVFmKe62CNzy60ZH" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\Machine learning\AnoGAN-MDGAN\bigan\train_logs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\Machine learning\AnoGAN-MDGAN\data" />
+      <recent name="D:\project\Machine learning\AnoGAN-MDGAN\bigan" />
+      <recent name="D:\project\Machine learning\AnoGAN-MDGAN\bigan\train_logs" />
+      <recent name="D:\project\Machine learning\AnoGAN-MDGAN\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="AnoGAN-MDGAN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="bigan kdd run --nb_epochs=3000 --label=0 --m=cross-e --id=-3" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5e6c952-a804-413c-9adf-98cd61c08643" name="Default Changelist" comment="" />
+      <created>1584581919443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584581919443</updated>
+      <workItem from="1584581920656" duration="7821000" />
+      <workItem from="1584626048551" duration="3273000" />
+      <workItem from="1584685764856" duration="18813000" />
+      <workItem from="1584715009135" duration="2068000" />
+      <workItem from="1584770771667" duration="27647000" />
+      <workItem from="1584841960118" duration="28156000" />
+      <workItem from="1584943000700" duration="10012000" />
+      <workItem from="1584960220969" duration="1256000" />
+      <workItem from="1585100469572" duration="13253000" />
+      <workItem from="1585130684656" duration="7614000" />
+      <workItem from="1585205218347" duration="16184000" />
+      <workItem from="1585227775843" duration="2730000" />
+      <workItem from="1585273719313" duration="77000" />
+      <workItem from="1585319905546" duration="1442000" />
+      <workItem from="1585377664062" duration="137000" />
+      <workItem from="1585377821417" duration="8604000" />
+      <workItem from="1585393345372" duration="7404000" />
+      <workItem from="1585403448500" duration="5443000" />
+      <workItem from="1585457089979" duration="25179000" />
+      <workItem from="1585542372406" duration="12432000" />
+      <workItem from="1585631480691" duration="1447000" />
+      <workItem from="1585713476330" duration="1101000" />
+      <workItem from="1585714646173" duration="8738000" />
+      <workItem from="1585740250463" duration="2148000" />
+      <workItem from="1585742425950" duration="10243000" />
+      <workItem from="1585797725806" duration="29704000" />
+      <workItem from="1585844224582" duration="3101000" />
+      <workItem from="1585882799599" duration="6621000" />
+      <workItem from="1585968405799" duration="44312000" />
+      <workItem from="1586056331552" duration="97374000" />
+      <workItem from="1587050931482" duration="3643000" />
+      <workItem from="1587100666093" duration="17091000" />
+      <workItem from="1587128589590" duration="13754000" />
+      <workItem from="1587189014170" duration="9381000" />
+      <workItem from="1587620611974" duration="7519000" />
+      <workItem from="1587706120965" duration="27358000" />
+      <workItem from="1587796294041" duration="25462000" />
+      <workItem from="1587870057920" duration="11615000" />
+      <workItem from="1588492587024" duration="717000" />
+      <workItem from="1588505026124" duration="235000" />
+      <workItem from="1588514969867" duration="6596000" />
+      <workItem from="1588556524467" duration="91000" />
+      <workItem from="1588556641598" duration="9000" />
+      <workItem from="1588556665457" duration="26505000" />
+      <workItem from="1588736771947" duration="24804000" />
+      <workItem from="1588815727034" duration="1875000" />
+      <workItem from="1588852166427" duration="7300000" />
+      <workItem from="1588860867579" duration="2035000" />
+      <workItem from="1588867791323" duration="1202000" />
+      <workItem from="1588901519765" duration="15827000" />
+      <workItem from="1588988323620" duration="18198000" />
+      <workItem from="1589078265308" duration="24668000" />
+      <workItem from="1589281812402" duration="12012000" />
+      <workItem from="1589334924303" duration="7861000" />
+      <workItem from="1589347767151" duration="20253000" />
+      <workItem from="1589421021111" duration="28014000" />
+      <workItem from="1589507717227" duration="48814000" />
+      <workItem from="1589703759895" duration="2702000" />
+      <workItem from="1589781097038" duration="10324000" />
+      <workItem from="1589851176137" duration="1954000" />
+      <workItem from="1589953755794" duration="10046000" />
+      <workItem from="1589964881097" duration="20327000" />
+      <workItem from="1590302895958" duration="387000" />
+      <workItem from="1595038238235" duration="794000" />
+      <workItem from="1595686607208" duration="868000" />
+      <workItem from="1596608444426" duration="14543000" />
+      <workItem from="1596692379368" duration="4949000" />
+      <workItem from="1596721834244" duration="1890000" />
+      <workItem from="1596769538590" duration="27961000" />
+      <workItem from="1596944326297" duration="29024000" />
+      <workItem from="1597023563729" duration="22828000" />
+      <workItem from="1597213438257" duration="7446000" />
+      <workItem from="1597233700164" duration="7001000" />
+      <workItem from="1597290276178" duration="17557000" />
+      <workItem from="1597412242342" duration="1008000" />
+      <workItem from="1597463111734" duration="15925000" />
+      <workItem from="1597554403644" duration="1445000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AnoGAN_MDGAN$kdd.coverage" NAME="main Coverage Results" MODIFIED="1585742330816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AnoGAN_MDGAN$main.coverage" NAME="main Coverage Results" MODIFIED="1597555493282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AnoGAN_MDGAN$unsw.coverage" NAME="main Coverage Results" MODIFIED="1585753890902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
